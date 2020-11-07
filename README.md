@@ -1,6 +1,8 @@
 # OOP Concept for Final Project Assignment
 
-This repo shows the basic OOP implementations using PHP for this Final Project
+This repo shows the basic OOP implementations using PHP for this Final Project.
+
+Specifically, we implement E-Learning Platform Class Diagram that would later be finalized and submitted as our Sofware Engineering Lab Assignment.
 
 ## How to output the index.php into the browser:
 1. Install XAMPP
