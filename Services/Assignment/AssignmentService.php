@@ -6,12 +6,7 @@ class AssignmentService
 {
     protected $title;
     protected $deadline;
-
-    // public function __construct($title, DateTime $deadline)
-    // {
-    //     $this->title = $title;
-    //     $this->deadline = $deadline;
-    // }
+    protected $assignment_ID;
 
     public function setTitle($title) {
         $this->title = $title;
@@ -20,6 +15,10 @@ class AssignmentService
     public function setDeadline($date) {
         $formatted_date = date_create_from_format('j-n-Y', $date);
         $this->deadline = $formatted_date;
+    }
+
+    public function setAssignmentID($id) {
+        $this->assignment_ID = $id;
     }
 
     public function getTitle() {

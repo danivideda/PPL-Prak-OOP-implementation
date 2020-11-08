@@ -4,7 +4,7 @@ namespace Services\Assignment;
 
 use Services\Assignment\AssignmentService;
 
-class TestService extends AssignmentService
+class ExamService extends AssignmentService
 {
     public function timeLeft() {
        #TODO: take time as parameter and return deadline time - current time
