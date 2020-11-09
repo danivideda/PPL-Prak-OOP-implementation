@@ -16,7 +16,7 @@ Specifically, we implement E-Learning Platform Class Diagram that would later be
 
 ## Member List
 - Dani Ihza Farrosi
-- Fitra Rahmani
+- Fitra Rahmani K
 - Muhammad Farhan F M 
 - Fariq Khoiru Rijal
 - Fajar Kenichi K P
