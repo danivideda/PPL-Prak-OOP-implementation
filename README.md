@@ -13,3 +13,8 @@ Specifically, we implement E-Learning Platform Class Diagram that would later be
 &lt;Directory "/Applications/XAMPP/xamppfiles/htdocs/myproject/pod1">
 5. Open XAMPP, run the Apache server
 6. Open localhost on your browser
+
+## Member List
+- Dani Ihza Farrosi
+- Fitra Rahmani
+- Muhammad Farhan F M 
