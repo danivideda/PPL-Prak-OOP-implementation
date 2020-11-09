@@ -18,3 +18,4 @@ Specifically, we implement E-Learning Platform Class Diagram that would later be
 - Dani Ihza Farrosi
 - Fitra Rahmani
 - Muhammad Farhan F M 
+- Fariq Khoiru Rijal
