@@ -7,13 +7,21 @@ use Services\Assignment\AssignmentService;
 class ReviewService extends AssignmentService
 {
     protected $review; #string of review or comment
+    protected $score;
 
     public function getReview() {
-        #TODO: return deadline time - current time
-        return '2 hours left';
+        return $this->review;
     }
 
     public function setReview($review) {
         $this->review = $review;
+    }
+
+    public function getScore() {
+        return $this->score;
+    }
+
+    public function setScore($score) {
+        $this->score = $score;
     }
 }
